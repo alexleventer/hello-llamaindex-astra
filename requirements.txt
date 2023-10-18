@@ -1,0 +1,4 @@
+llama_index
+cassandra-driver
+load_dotenv
+cassio
