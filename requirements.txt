@@ -1,4 +1,3 @@
-llama_index
-cassandra-driver
-load_dotenv
-cassio
+cassio>=0.1.3
+llama-index>=0.8.53
+python-dotenv>=1.0.0
