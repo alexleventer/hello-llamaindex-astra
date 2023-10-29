@@ -2,7 +2,6 @@ import os
 from pathlib import Path
 
 import cassio
-import openai
 from dotenv import load_dotenv
 from llama_index import StorageContext, VectorStoreIndex
 from llama_index.vector_stores import CassandraVectorStore
